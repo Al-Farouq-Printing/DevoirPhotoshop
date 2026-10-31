@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.DevoirPhotoshop" parent="android:Theme.Material.NoActionBar" />
+</resources>
